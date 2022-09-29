@@ -1,0 +1,26 @@
+{
+    "name": "xcx-cli-test",
+    "version": "1.0.2",
+    "description": "简单的脚手架创建",
+    "main": "index.js",
+    "bin": {
+        "xcx-cli": "bin/cli.js"
+    },
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "宇宙超级无敌马牛逼",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "chalk": "^4.1.2",
+        "commander": "^6.2.1",
+        "download-git-repo": "^3.0.2",
+        "inquirer": "^6.5.2",
+        "ora": "^4.1.1"
+    },
+    "access_token": "77a86e993fe311d168643d5038c220df"
+}
